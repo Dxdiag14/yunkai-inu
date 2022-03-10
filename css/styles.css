@@ -1092,8 +1092,8 @@ a:hover.back-to-top {
 @media (min-width: 1280px) {
     /* General Styles */
     .h1-large {
-        font-size: 3.125rem;
-        line-height: 3.75rem;
+        font-size: 5rem;
+        line-height: 5rem;
     }
 
     .container {
