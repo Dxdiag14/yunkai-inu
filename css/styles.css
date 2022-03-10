@@ -574,7 +574,7 @@ input[type="checkbox"] {
 /*     Features     */
 /********************/
 .cards-1 {
-    padding-top: 4rem;
+    padding-top: 2rem;
     padding-bottom: 1.5rem;
     text-align: center;
 }
@@ -748,7 +748,7 @@ input[type="checkbox"] {
 /*******************/
 .cards-2 {
     position: relative;
-    padding-top: 8rem;
+    padding-top: 4rem;
     background: linear-gradient(rgba(199, 23, 24, 0.1), rgba(199, 23, 24, 0.1)), url("../assets/bg-body.jpg") center center no-repeat;
     background-size: cover;
     text-align: center;
